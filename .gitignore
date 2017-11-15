@@ -2,6 +2,7 @@
 *.jar
 *.log*
 *.tmp
+tmp/
 *.lock
 /**/webapp/file
 /**/.classpath
@@ -18,3 +19,11 @@
 /**/.checkstyle
 /**/rebel.xml
 overlays/
+MagnoliaBackup/
+magnolia-enterprise-pro-webapp-5.5.7.war
+instrumentation/
+jenkins.tgz
+jenkins.war
+jenkins/
+prometheus-2.0.0.darwin-amd64.tar.gz
+prometheus-2.0.0.darwin-amd64/
